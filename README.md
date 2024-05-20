@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Bishar-Saeed
-- 👀 I’m interested in WEBSITES-DEVELOPMENT, PROBLEM SOLVING,PROGRAMMING
+- 👀 I’m interested in WEBSITES-DEVELOPMENT, PROBLEM SOLVING, PROGRAMMING.
+                       "Specializing in web development with HTML, CSS, and React"
+                       "Familiar with backend  like Python and Django"
 - 🌱 I’m currently learning BS-COMPUTER_SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... bisharchh@gmail.com - chbishar41@gmail.com
